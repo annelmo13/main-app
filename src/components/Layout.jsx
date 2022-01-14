@@ -10,7 +10,7 @@ const Layout = () => {
         <header>
             <CustomLink to="/">Home</CustomLink>
             <CustomLink to="/about">About</CustomLink>
-            <CustomLink to="/loginpage">
+            <CustomLink to="/login">
                 <Button variant="primary">Log In</Button>
             </CustomLink>
         </header>

@@ -19,7 +19,7 @@ body {
 header {
   background-color: var(--color-bg);
   padding: 2rem 0;
-  text-align: center;
+  text-align: justify;
 }
 header > a {
   color: white;
